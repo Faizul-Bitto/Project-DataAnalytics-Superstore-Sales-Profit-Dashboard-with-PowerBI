@@ -110,7 +110,7 @@ Measures built:
 
 - `assignment.pbix`: Power BI dashboard file
 - `Sample - Superstore.xls`: source data
-- `assets/dashboard_screenshot.png`: dashboard screenshot
+- `assets/dashboard_image.png`: dashboard screenshot
 
 ---
 
