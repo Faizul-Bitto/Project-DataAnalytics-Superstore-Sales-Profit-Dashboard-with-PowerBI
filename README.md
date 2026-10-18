@@ -108,7 +108,7 @@ Measures built:
 
 ## 10. Project Files
 
-- `assignment.pbix`: Power BI dashboard file
+- `Superstore Sales Profit Dashboard.pbix`: Power BI dashboard file
 - `Sample - Superstore.xls`: source data
 - `assets/dashboard_image.png`: dashboard screenshot
 
